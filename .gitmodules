@@ -1,0 +1,6 @@
+[submodule "plugins/hus-ble"]
+	path = plugins/hus-ble
+	url = git@github.com:rask-project/hus-ble
+[submodule "plugins/ble"]
+	path = plugins/ble
+	url = git@github.com:rask-project/rask-ble.git
