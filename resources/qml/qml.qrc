@@ -3,5 +3,14 @@
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
         <file>navigation/ScrollablePage.qml</file>
+        <file>pages/Discovery.qml</file>
+        <file>pages/Device.qml</file>
+        <file>navigation/HeaderBasic.qml</file>
+        <file>navigation/FooterBasic.qml</file>
+        <file>components/Icon.qml</file>
+        <file>components/ItemDevice.qml</file>
+        <file>components/ItemService.qml</file>
+        <file>pages/Characteristics.qml</file>
+        <file>components/ItemCharacteristic.qml</file>
     </qresource>
 </RCC>
